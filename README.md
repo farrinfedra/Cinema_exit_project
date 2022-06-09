@@ -16,5 +16,8 @@ L: move one cell Left,
 R: move one cell Right, and
 M(i): go to the i-th step
 
-### Link to Google Slides:
-https://docs.google.com/presentation/d/1PyIbPcA0pOjCNM5qnQHeaNAN9g98jTATdTkksOwV6sc/edit?userstoinvite=eertem19@ku.edu.tr&actionButton=1#slide=id.g13388544422_0_0
+### Link to Google Slides (Complete Approach):
+https://docs.google.com/presentation/d/1PyIbPcA0pOjCNM5qnQHeaNAN9g98jTATdTkksOwV6sc/edit?usp=sharing
+
+### Link to Report:
+https://docs.google.com/document/d/1t0Hx2F08oIhUJS4mKzohc40cvB7a9jL6SgRRMBo8Ji8/edit?usp=sharing
